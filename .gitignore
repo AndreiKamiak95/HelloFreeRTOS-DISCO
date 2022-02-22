@@ -1,0 +1,19 @@
+
+
+# Applications
+*.app
+*.exe
+*.war
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+/.settings
+/Debug
+/Release
+bootloaderSTM32f407_uart Run.cfg
